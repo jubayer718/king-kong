@@ -1,0 +1,13 @@
+table{
+  border-collapse: collapse;
+}
+td,th{
+  border: 1px solid gray;
+  padding: 5px 15px;
+}
+.round2,.final,.champ,.champion{
+  font-weight: bold;
+}
+.champion{
+  text-align: center;
+}
